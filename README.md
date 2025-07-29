@@ -7,7 +7,7 @@ Creating a amazing neon box with some cool features like vibrant green neon glow
 ## Acknowledgements
 
  - [Subscribe Me on Youtube❤️](https://www.youtube.com/@mehtabcodes)
- - [Follow Me On Instagram😉](https://www.instagram.com/mehtabcodesofficial/)
+ - [Follow Me On Instagram😉](https://www.instagram.com/mehtabcodes/)
  - [More Amazing Repositories](https://github.com/mehtabcodes7)
 
 
